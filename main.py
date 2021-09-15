@@ -70,5 +70,5 @@ async def ass(ctx):
         ]
         )
 #haudi lover sex pirozhok semen
-client.run("ODg1ODY2NDc3MDA0MTI4MzA2.YTtRcg.J1FUPz7N8RKBiYbOBI3Ljb1-Kyo")
+client.run(cen)
 #https://www.tiktok.com/@anastasia_yseeva_17/video/7005267461754850562?is_copy_url=0&is_from_webapp=v1&sender_device=pc&sender_web_id=6953694988597822982
