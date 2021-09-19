@@ -1,4 +1,4 @@
-#имортишь всю хуйню чтобы не залететь в ModuleNotFoundError
+#имортишь всю iyzue чтобы не залететь в ModuleNotFoundError
 import discord
 from discord.ext import commands
 from discord_buttons_plugin import *
@@ -14,11 +14,11 @@ async def on_ready():
 #командыкнопочкикнопочкикнопочки
 @buttons.click
 async def services(ctx):
-    await ctx.reply("Секс-услуги\nАнальный фистинг\nОральные утехи\nМилфы\nЛоли\nСета")
+    await ctx.reply("Все что Вам требуется")
 
 @buttons.click
 async def rec(ctx):
-    await ctx.reply("""Бабки сюда лол без кринжа и наебалова:
+    await ctx.reply("""Прекрасная ныне погода
 
         """)
 
@@ -69,6 +69,6 @@ async def ass(ctx):
                 ])
         ]
         )
-#haudi lover sex pirozhok semen
+
 client.run(cen)
 #https://www.tiktok.com/@anastasia_yseeva_17/video/7005267461754850562?is_copy_url=0&is_from_webapp=v1&sender_device=pc&sender_web_id=6953694988597822982
