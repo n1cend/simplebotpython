@@ -71,4 +71,4 @@ async def ass(ctx):
         )
 
 client.run(cen)
-#https://www.tiktok.com/@anastasia_yseeva_17/video/7005267461754850562?is_copy_url=0&is_from_webapp=v1&sender_device=pc&sender_web_id=6953694988597822982
+#https://www.tiktok.com/@tomashevskyi_dima/video/7009241572176858374?lang=ru-RU&is_copy_url=1&is_from_webapp=v1
